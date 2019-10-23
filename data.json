@@ -1,0 +1,80 @@
+[
+    {
+        "id": "4713949607451840528",
+        "name": "Makine 1",
+        "warpPrice": 30,
+        "rpm": 400,
+        "status": "Active",
+        "efficiency": 83.89088,
+        "failures": {
+            "weft": {
+                "duration": 8520000,
+                "percentage": 56
+            },
+            "warp": {
+                "duration": 1472256,
+                "percentage": 12
+            },
+            "manual": {
+                "duration": 3926016,
+                "percentage": 32
+            }
+        },
+        "earnings": {
+            "actual": 186.8,
+            "optimum": 248.52
+        }
+	},
+	 {
+        "id": "4713949607451840529",
+        "name": "Makine 7",
+        "warpPrice": 30,
+        "rpm": 400,
+        "status": "Active",
+        "efficiency": 86.92865,
+        "failures": {
+            "weft": {
+                "duration": 1102140,
+                "percentage": 10
+            },
+            "warp": {
+                "duration": 771498,
+                "percentage": 7
+            },
+            "manual": {
+                "duration": 9420000,
+                "percentage": 83
+            }
+        },
+        "earnings": {
+            "actual": 212.8,
+            "optimum": 248.52
+        }
+	},
+	 {
+        "id": "4713949607451840530",
+        "name": "Makine 4",
+        "warpPrice": 30,
+        "rpm": 400,
+        "status": "Active",
+        "efficiency": 66.3210625,
+        "failures": {
+            "weft": {
+                "duration": 7261002,
+                "percentage": 21
+            },
+            "warp": {
+                "duration": 1617600,
+                "percentage": 8
+            },
+            "manual": {
+                "duration": 20220000,
+                "percentage": 71
+            }
+        },
+        "earnings": {
+            "actual": 137.4,
+            "optimum": 248.52
+        }
+	}
+]
